@@ -1,0 +1,13 @@
+{
+"companyName": "SGR_Company",
+"productName": "DeltaDomination",
+"dataUrl": "BuildData.data.unityweb",
+"asmCodeUrl": "BuildData.asm.code.unityweb",
+"asmMemoryUrl": "BuildData.asm.memory.unityweb",
+"asmFrameworkUrl": "BuildData.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
